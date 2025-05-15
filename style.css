@@ -208,7 +208,7 @@ body {
 }
 
 .how-it-works-image {
-  max-width: 60%;
+  max-width: 100%;
   padding: 1rem;
   height: auto;
   border-radius: 6px;

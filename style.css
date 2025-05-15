@@ -201,7 +201,7 @@ body {
   width: 200px;
 }
 
-.how-it-works-image-wrapper {
+/* .how-it-works-image-wrapper {
   display: flex;
   justify-content: right;
   align-items: right;
@@ -238,7 +238,7 @@ body {
   padding: 1.2rem;
   height: auto;
   border-radius: 6px;
-}
+} */
 
 /* CTA Section */
 .cta {

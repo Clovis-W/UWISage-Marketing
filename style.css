@@ -201,7 +201,7 @@ body {
   width: 200px;
 }
 
-/* .how-it-works-image-wrapper {
+.how-it-works-image-wrapper {
   display: flex;
   justify-content: right;
   align-items: right;
@@ -227,7 +227,7 @@ body {
   border-radius: 6px;
 }
 
-.login-image-wrapper {
+/* .login-image-wrapper {
   display: flex;
   justify-content: center;
   align-items: center;
